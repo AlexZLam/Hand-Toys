@@ -7,8 +7,8 @@ Control your computer using intuitive hand gestures — including **volume contr
 
 ## 📂 Project Structure
 
-- **HandToysTxt.txt** → Main application script. Handles webcam input, gesture detection, and maps gestures to system actions (volume, media, mouse, etc.).
-- **handTrackingModuleTxt.txt** → Custom hand tracking module built on MediaPipe. Provides helper functions to detect hands and extract landmark positions.
+- **handToys.py** → Main application script. Handles webcam input, gesture detection, and maps gestures to system actions (volume, media, mouse, etc.).
+- **handTrackingModule.py** → Custom hand tracking module built on MediaPipe. Provides helper functions to detect hands and extract landmark positions.
 
 ---
 
